@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaantanu Mishra
-- 🌱 I’m currently Pursuing my Master's in CSE from IIT GUWAHATI
+- 🌱 I’m currently working as a Software Developer Intel 
 - 📫 Email : Kashyapsm54@gmail.com
 
 <!---
