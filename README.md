@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaantanu Mishra
-- 🌱 I’m currently working as a Software Developer Intel 
+- 🌱 I’m currently working as a Software Developer @Intel 
 - 📫 Email : Kashyapsm54@gmail.com
 
 <!---
